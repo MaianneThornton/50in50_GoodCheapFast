@@ -57,7 +57,7 @@ In the future I plan on continuing to practice animations to make my pages more 
 
 I also plan on continuing to practice using event listeners to make my pages more functional.
 
-I also plan on continuing to learn the best ways to phrase git commits, so that future viewers can fully understand the changes that have occurred.
+I also plan on implementing these widgets on pages in the future.
 
 ### I'm really proud of these code snippets✂️
 
